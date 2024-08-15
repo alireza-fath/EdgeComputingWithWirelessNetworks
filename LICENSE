@@ -27,6 +27,8 @@ Python Software Foundation License (PSF License)
 The `socket` and `time` libraries are part of the Python Standard Library and are licensed under the PSF License. You can find the full text of the PSF License at the following link:
 - [Python Software Foundation License](https://docs.python.org/3/license.html)
 
+- [SoftwareSerial Library on GitHub](https://github.com/PaulStoffregen/SoftwareSerial)
+
 ---
 
 BSD-style License
