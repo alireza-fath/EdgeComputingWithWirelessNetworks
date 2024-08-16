@@ -4,6 +4,10 @@ This repository is created to make available the data and source code related to
 ## Structure
 The experiments described were conducted using a client-server model using various connection methods, namely HaLow, 2.4 and 5GHz Wi-Fi, and 4G and 5G cellular. For all tests, the scripts `clienttest3` and `servertest3` were used to generate the data. Data for the local connection methods described in section 3.2 are found in the `LocalNetworkLatencyTestData` directory. Data for the cellular connection methods described in section 3.3 are found in the `CellularLatencyTestByPacketSize` directory.
 
+## Citations
+
+Fath, Alireza. 2024. "Integration and Performance Assessment of Cyber-Physical Systems for Structural Health Monitoring and Maintenance." Order No. 31487424, The University of Vermont and State Agricultural College. https://login.ezproxy.uvm.edu/login?url=https://www.proquest.com/dissertations-theses/integration-performance-assessment-cyber-physical/docview/3086817567/se-2.
+
 ## License
 
 MIT License
