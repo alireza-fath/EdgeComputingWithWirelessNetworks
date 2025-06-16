@@ -8,6 +8,8 @@ The experiments described were conducted using a client-server model using vario
 
 Fath, Alireza. 2024. "Integration and Performance Assessment of Cyber-Physical Systems for Structural Health Monitoring and Maintenance." Order No. 31487424, The University of Vermont and State Agricultural College. https://login.ezproxy.uvm.edu/login?url=https://www.proquest.com/dissertations-theses/integration-performance-assessment-cyber-physical/docview/3086817567/se-2.
 
+Tanch, S.; Fath, A.; Hanna, N.; Xia, T.; Huston, D. GPR Sensing and Visual Mapping Through 4G-LTE, 5G, Wi-Fi HaLow, and Wi-Fi Hotspots with Edge Computing and AR Representation. Appl. Sci. 2025, 15, 6552. https://doi.org/10.3390/app15126552
+
 ## License
 
 MIT License
